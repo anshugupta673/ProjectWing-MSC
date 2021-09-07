@@ -1,0 +1,1 @@
+React, js lib as framework for singlepageapplications. here in react we use jsx(html with some changes where we can use html with js with some changes and we can divide the website into components)
